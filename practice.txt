@@ -8,7 +8,7 @@ public class HelloSelenium {
         WebDriver driver = new ChromeDriver();
 
         driver.get("https://selenium.dev");
-
+         System.out.printLn("My Comment");
         driver.quit();
     }
 }
