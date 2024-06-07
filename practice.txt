@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //hello my name is Aman
+=======
+//Added New branch and adding line
+>>>>>>> 06275fd049a3461d434bb9bdc49a63a0e751061e
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
